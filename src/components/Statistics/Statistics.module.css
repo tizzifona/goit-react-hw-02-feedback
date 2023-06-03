@@ -1,0 +1,20 @@
+.statList {
+  list-style-type: none;
+  text-align: left;
+  font-size: 20px;
+  padding: 0;
+  margin-left: 50px;
+}
+
+.statIcon {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+  margin-top: 1px;
+}
+
+.statText {
+  display: flex;
+  align-content: baseline;
+  font-size: 25px;
+}
